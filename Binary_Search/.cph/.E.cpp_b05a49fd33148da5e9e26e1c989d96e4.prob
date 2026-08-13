@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"g:\\CPC_Batch_3\\Module_2\\Binary_Search\\E.cpp","tests":[{"id":1752325852844,"input":"5 3\n5 3 7 8 5\n4 8 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\CPC_Batch_3\\Module_2\\Binary_Search\\E.cpp","group":"local","local":true}
